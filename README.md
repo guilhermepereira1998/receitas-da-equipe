@@ -1,1 +1,2 @@
-# receitas-da-equipe
+# Equipe "Doce Salgado"
+
